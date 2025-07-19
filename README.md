@@ -33,11 +33,11 @@ CPF,FIRSTNAME,LASTNAME,JOBTITLE
 
 1. Compile the code using a C compiler, for example:
 
-gcc cartorio_ebac.c -o cartorio_ebac
+gcc RegistrySystem.cpp -o ebac_registry
 
 2. Run the program
 
-./cartorio_ebac
+./ebac_registry
 
 ## Requirements
 
