@@ -39,7 +39,8 @@ gcc cartorio_ebac.c -o cartorio_ebac
 
 ./cartorio_ebac
 
-Requirements:
+## Requirements
+
 C compiler compatible with C99 or later
 
 Windows-based system for system("cls") and system("pause") support
