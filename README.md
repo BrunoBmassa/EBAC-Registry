@@ -45,6 +45,6 @@ C compiler compatible with C99 or later
 
 Windows-based system for system("cls") and system("pause") support
 
-Author
-Bruno Brehmer Massaneiro
-Developed as part of a C programming course project at EBAC.
+##Author
+##Bruno Brehmer Massaneiro
+##Developed as part of a C programming course project at EBAC.
