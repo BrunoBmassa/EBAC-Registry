@@ -47,6 +47,12 @@ C compiler compatible with C99 or later
 
 Windows-based system for system("cls") and system("pause") support
 
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+---
+
 ## Author
  Bruno Brehmer Massaneiro
  ### Developed as part of a C programming course project at EBAC.
