@@ -1,3 +1,5 @@
+![EBAC Registry System](./EBAC_Registry_System.png)
+
 # EBAC Registry System
 
 A simple user management system in C that allows registering, consulting, and deleting records based on CPF (Brazilian personal ID number). Developed as an introductory project to file handling, string manipulation, and menus in C.
